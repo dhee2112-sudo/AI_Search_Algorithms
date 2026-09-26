@@ -1,4 +1,4 @@
- AI Assignment 3 - Search Algorithms
+ Search Algorithms
 
  Overview
 This project implements search algorithms used in AI for pathfinding.
